@@ -20,7 +20,7 @@ Welcome to the Drone Photography Guide repository! This repository houses the co
 
 # How to Use:
 1.Clone the Repository:
-git clone https://github.com/yourusername/DronePhotographyGuide.git
+git clone https://github.com/IshnoorKaur/DronePhotographyGuide.git
 
 2.Open the HTML File:
 Open the index.html file in your preferred web browser to explore the website.
